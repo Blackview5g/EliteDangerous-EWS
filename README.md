@@ -40,7 +40,7 @@ Early detection of Thargoid hyperdictions during hyperspace jumps.
 
 ---
 
-## 🇬🇧 Project Description (English)
+## en Project Description (English)
 
 **EliteDangerous-EWS** is a prototype software module written in Python that analyzes the Elite Dangerous Journal log files in real-time. Its primary goal is to warn the pilot about hyperspace instability and imminent Thargoid Hyperdiction before the in-game visual effects begin.
 
