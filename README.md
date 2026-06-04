@@ -8,9 +8,3 @@ Early detection of Thargoid hyperdictions during hyperspace jumps.
 - Uses `SystemAddress` comparison for reliability.
 - 60-second network lag protection.
 - Plays warning sounds (unstable.ogg, dropped.ogg).
-
-## Installation
-```bash
-git clone https://github.com/yourname/EliteDangerous-EWS.git
-cd EliteDangerous-EWS
-pip install -r requirements.txt
