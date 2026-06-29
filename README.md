@@ -64,6 +64,11 @@ The module compares the number of remaining jumps in the pre-calculated route be
    * After being pulled out of hyperspace, the module logs `Unknown_Encounter` (Thargoid signature detected) and `SystemsShutdown` events.
 
 ---
+## Отказ от ответственности / Disclaimer
+
+*   **RU:** Данная программа является фанатским некоммерческим проектом и предназначена исключительно для личного использования. Она никак не связана с Frontier Developments plc, не поддерживается и не одобряется ими. Все права на Elite Dangerous принадлежат Frontier Developments.
+*   **EN:** This is a fan-made non-commercial tool. It is not affiliated with, funded, or endorsed by Frontier Developments plc. All rights to Elite Dangerous belong to Frontier Developments.
+
 
 ## 📂 Структура репозитория / Repository Structure
 
