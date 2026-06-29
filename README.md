@@ -8,7 +8,7 @@ Early detection of Thargoid hyperdictions during hyperspace jumps.
 - Uses `SystemAddress` comparison for reliability.
 - 60-second network lag protection.
 
-# EliteDangerous-EWS (Early Warning System)
+# EWS Hyperdition (Early Warning System) 
 
 [RU] Модуль раннего предупреждения о перехвате в гиперпространстве (Hyperdiction) для игры Elite Dangerous.
 [EN] Early Warning System module for hyperspace interdictions (Hyperdiction) For game Elite Dangerous.
