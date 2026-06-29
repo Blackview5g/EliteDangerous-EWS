@@ -1,4 +1,4 @@
-# Elite Dangerous — Early Warning System (EWS)
+# Early Warning System (EWS) For game *Elite Dangerous*
 
 Early detection of Thargoid hyperdictions during hyperspace jumps.
 
@@ -11,13 +11,13 @@ Early detection of Thargoid hyperdictions during hyperspace jumps.
 # EliteDangerous-EWS (Early Warning System)
 
 [RU] Модуль раннего предупреждения о перехвате в гиперпространстве (Hyperdiction) для игры Elite Dangerous.
-[EN] Early Warning System module for hyperspace interdictions (Hyperdiction) in Elite Dangerous.
+[EN] Early Warning System module for hyperspace interdictions (Hyperdiction) For game Elite Dangerous.
 
 ---
 
 ## 🇷🇺 Описание проекта (Russian)
 
-**EliteDangerous-EWS** — это прототип программного модуля на Python, который анализирует журнал (Journal) игры Elite Dangerous в реальном времени. Его главная цель — предупредить пилота о нестабильности гиперпространства и возможном перехвате Таргоидами (Hyperdiction) до того, как начнется визуальная анимация в игре.
+**EVS Hyperdition** — это прототип программного модуля на Python, который анализирует журнал (Journal) игры Elite Dangerous в реальном времени. Его главная цель — предупредить пилота о нестабильности гиперпространства и возможном перехвате Таргоидами (Hyperdiction) до того, как начнется визуальная анимация в игре.
 
 ### ⚙️ Как это работает (Логика EWS)
 
@@ -42,7 +42,7 @@ Early detection of Thargoid hyperdictions during hyperspace jumps.
 
 ## 🇬🇧 Project Description (English)
 
-**EliteDangerous-EWS** is a prototype software module written in Python that analyzes the Elite Dangerous Journal log files in real-time. Its primary goal is to warn the pilot about hyperspace instability and imminent Thargoid Hyperdiction before the in-game visual effects begin.
+**EVS Hyperdition** is a prototype software module written in Python that analyzes the Elite Dangerous Journal log files in real-time. Its primary goal is to warn the pilot about hyperspace instability and imminent Thargoid Hyperdiction before the in-game visual effects begin.
 
 ### ⚙️ How It Works (EWS Logic)
 
